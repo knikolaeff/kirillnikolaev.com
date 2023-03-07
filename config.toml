@@ -28,4 +28,4 @@ enableRobotsTXT = true
 
 [params]
 	description = 'Programming and FOSS enthusiast.'
-	avatarURL = "/images/photo_2023-01-10_16-22-09.jpg"
+	avatarURL = "/static/photo_2023-01-10_16-22-09.jpg"
