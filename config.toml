@@ -1,31 +1,66 @@
-baseURL = 'https://knikolaev.me'
-defaultContentLanguage = 'en'
-languageCode = 'en-us'
-title = "Kirill Nikolaev"
-theme = 'gokarna'
+baseurl = "https://knikolaev.me/"
+title = "Kirill's Website"
+theme = "coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
-enableRobotsTXT = true
+paginate = 15
 
-[menu]
-	[[menu.main]]
-	identifier = 'projects'
-	url = '/projects/'
-	name = 'Projects'
-	weight = 1
+disqusShortname = "knikolaeff"
 
-
-	[[menu.main]]
-	identifier = 'github'
-	url = "https://github.com/knikolaeff"
-	weight = 2
-	pre = "<span data-feather='github'></span>"
-
-	[[menu.main]]
-	identifier = 'linkedin'
-	url = "https://www.linkedin.com/in/kirill-nikolaev-ab4593242/"
-	weight = 3
-	pre = "<span data-feather='linkedin'></span>"
+[markup.highlight]
+style = "github-dark"
 
 [params]
+<<<<<<< HEAD
+  author = "Kirill Nikolaev"
+  info = "Programming and FOSS enthusiast. Open to work."
+  description = "Kirill Nikolaev's personal website"
+  keywords = "blog,developer,personal,nikolaev"
+  avatarurl = "/photo.jpg"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/knikolaeff/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/kirill-nikolaev-ab4593242/"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url  = "about"
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "projects/"
+[[menu.main]]
+  name = "Support me"
+  weight = 3
+  url = "donate/"
+=======
 	description = 'Programming and FOSS enthusiast.'
 	avatarURL = "/photo_2023-01-10_16-22-09.jpg"
+>>>>>>> main
