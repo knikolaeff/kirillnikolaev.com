@@ -12,6 +12,7 @@ disqusShortname = "knikolaeff"
 style = "github-dark"
 
 [params]
+<<<<<<< HEAD
   author = "Kirill Nikolaev"
   info = "Programming and FOSS enthusiast. Open to work."
   description = "Kirill Nikolaev's personal website"
@@ -59,3 +60,7 @@ style = "github-dark"
   name = "Support me"
   weight = 3
   url = "donate/"
+=======
+	description = 'Programming and FOSS enthusiast.'
+	avatarURL = "/photo_2023-01-10_16-22-09.jpg"
+>>>>>>> main
