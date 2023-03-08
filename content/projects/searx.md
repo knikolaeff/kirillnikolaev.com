@@ -7,7 +7,7 @@ draft: false
 ## TL;DR 
 
 My public instance with 0-logging policy and convenient default settings:
-#### freesearch.club
+[freesearch.club](https://freesearch.club)
 
 SearX (or it's fork SearXNG) is a free and open-source metasearch engine. Unlike traditional search engines, SearX:
 
