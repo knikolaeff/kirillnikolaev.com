@@ -1,4 +1,4 @@
-baseurl = "knikolaev.me"
+baseurl = "/"
 title = "Kirill's Website"
 theme = "coder"
 languagecode = "en"

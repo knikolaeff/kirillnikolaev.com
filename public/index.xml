@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kirill Nikolaev</title>
-    <link>https://knikolaev.me/</link>
-    <description>Recent content on Kirill Nikolaev</description>
+    <title>Kirill&#39;s Website</title>
+    <link>/</link>
+    <description>Recent content on Kirill&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://knikolaev.me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Mar 2023 14:37:47 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SearX</title>
+      <link>/projects/searx/</link>
+      <pubDate>Wed, 08 Mar 2023 14:37:47 +0000</pubDate>
+      
+      <guid>/projects/searx/</guid>
+      <description>TL;DRLink to headingMy public instance with 0-logging policy and convenient default settings:
+freesearch.clubLink to headingSearX (or it&amp;rsquo;s fork SearXNG) is a free and open-source metasearch engine. Unlike traditional search engines, SearX:
+Respects your privacy by removing private data from search requests, as well as requests going to the result pages Searching using multiple (metasearch) search engines, such as Google, DuckDuckGo, Qwant, Wikidata; there are dozens. This gives you much more information and does not trap you in a filter bubbleHackable.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 08 Mar 2023 13:51:04 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello, World!Link to headingMy name is Kirill (aka Kiryl) and I am trying to become a full-time software developer. I gained some professional experience working as a QA Engineer Intern, but mostly I am a self-taught programmer.
+Professional interests:Link to headingLinux power user Python &amp;amp; WebDev (currently developing REST API using FastAPI + sqlalchemy) Data Science (wannabe) CyberSec (pentesting, network reconnaissance, reverse engineering, all this kind of stuff) Other interests:Link to headingEconomics, including cryptocurrency Retrogaming and emulation Raspberry Pi tinkering Hardware/Software troubleshooting (freelanced fixing electronics for people, nobody has complained yet xD) Self-hosted (currently hosting a SearX instance, previously hosted some game servers) Decentralization Sci-Fi </description>
+    </item>
+    
   </channel>
 </rss>
