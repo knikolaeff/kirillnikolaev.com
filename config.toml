@@ -56,6 +56,10 @@ style = "github-dark"
   weight = 2
   url = "projects/"
 [[menu.main]]
-  name = "Support me"
+  name = "Posts"
   weight = 3
+  url = "posts/"
+[[menu.main]]
+  name = "Support me"
+  weight = 4
   url = "donate/"
