@@ -6,7 +6,18 @@ defaultcontentlanguage = "en"
 
 paginate = 15
 
-disqusShortname = "knikolaeff"
+[params.giscus] # https://giscus.app
+  repo = "knikolaeff/knikolaev.me"
+  repoID = "R_kgDOJGMIcw"
+  category = "General"
+  categoryID = "DIC_kwDOJGMIc84CUwse"
+  mapping = "title"
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "top"
+  theme = "preferred_color_scheme"
+  lang = "en"
 
 [markup.highlight]
 style = "github-dark"
