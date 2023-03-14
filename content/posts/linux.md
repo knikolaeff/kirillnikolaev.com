@@ -28,4 +28,4 @@ Pacman and AUR are also forever in my heart.
 
 ### Dotfiles
 
-Still tinkering with chezmoi. WIP
+I am using [chezmoi](https://www.chezmoi.io/) to manage my dotfiles. You can find them at my github repo: https://github.com/knikolaeff/.dotfiles
