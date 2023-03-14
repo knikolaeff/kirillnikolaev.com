@@ -4,7 +4,7 @@ date: 2023-03-14T14:26:31Z
 ---
 There comes a time in every man's life when he just has to talk about his Linux setup on the internet.
 
-[](/linux-screenshot.jpg)
+![](/linux-screenshot.jpg)
 *My desktop, vim with this exact page open and neofetch, of course*
 
 ### Why Arch?
