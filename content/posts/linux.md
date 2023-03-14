@@ -1,7 +1,6 @@
 ---
 title: "My Linux configuration"
 date: 2023-03-14T14:26:31Z
-draft: true
 ---
 There comes a time in every man's life when he just has to talk about his Linux setup on the internet.
 
