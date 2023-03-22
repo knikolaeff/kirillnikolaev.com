@@ -1,11 +1,11 @@
 ---
 title: "My Linux configuration"
 date: 2023-03-14T14:26:31Z
-draft: true
+categories: [ "Linux" ]
 ---
 There comes a time in every man's life when he just has to talk about his Linux setup on the internet.
 
-[](/linux-screenshot.jpg)
+![](/linux-screenshot.jpg)
 *My desktop, vim with this exact page open and neofetch, of course*
 
 ### Why Arch?
@@ -28,4 +28,4 @@ Pacman and AUR are also forever in my heart.
 
 ### Dotfiles
 
-Still tinkering with chezmoi. WIP
+I am using [chezmoi](https://www.chezmoi.io/) to manage my dotfiles. You can find them at my github repo: https://github.com/knikolaeff/.dotfiles
