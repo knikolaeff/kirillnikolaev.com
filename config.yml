@@ -1,0 +1,74 @@
+baseURL: "https://kirillnikolaev.com"
+title: Kirill Nikolaev
+pagination.pagerSize: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Kirill Nikolaev
+  description: "Kirill's personal website"
+  keywords: [Blog, Portfolio, PaperMod, Hugo, Kirill Nikolaev, Kiryl Nikalayeu]
+  DateFormat: "01-01-2006"
+  defaultTheme: dark
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    favicon: "./photo.jpg"
+
+  profileMode:
+    enabled: true
+    title: Kirill Nikolaev
+    subtitle: "Hello, world! I'm a DevOps Engineer at [**Yoma**](https://yomadigital.com), where I manage Linux systems, build pipelines, orchestrate containers and make clients happy. I have been using Linux as my daily driver (Arch, btw) for 4+ years. I develop in Python and Bash, dabble in C and Go, and am pursuing Bachelor of Engineering in IT. Beyond tech, I have also been successfully trading equities and cryptocurrencies for over 2 years."
+    imageUrl: "./photo.jpg"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: "My photo"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/knikolaeff"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/kiryl-nikalayeu-ab4593242"
+    - name: email
+      url: "emailto:kirillnikolaefff@gmail.com"
+    - name: cv
+      url: "localhost"
+
+menu:
+  main:
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 1
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 2
+    - identifier: cv
+      name: CV
+      url: https://drive.google.com/file/d/1HMBeaMNeg1FjdukI4IWsLcR1IoRcIcjZ/view?usp=sharing
