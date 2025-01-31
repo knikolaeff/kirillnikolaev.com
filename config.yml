@@ -55,7 +55,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/kiryl-nikalayeu-ab4593242"
     - name: email
-      url: "emailto:kirillnikolaefff@gmail.com"
+      url: "emailto:contact@kirillnikolaev.com"
     - name: cv
       url: "./Kirill_Nikolaev_CV.pdf"
 
