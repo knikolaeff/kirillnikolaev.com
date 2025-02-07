@@ -71,4 +71,4 @@ menu:
       weight: 2
     - identifier: cv
       name: CV
-      url: ./Kirill_Nikolaev_CV.pdf
+      url: /media/Kirill_Nikolaev_CV.pdf
