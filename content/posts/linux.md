@@ -5,7 +5,7 @@ categories: [ "Linux" ]
 ---
 There comes a time in every man's life when he just has to talk about his Linux setup on the internet.
 
-![](media/linux-screenshot.jpg)
+![](/media/linux-screenshot.jpg)
 *My desktop, neovim with this particular post and neofetch*
 
 ### Why Arch?
