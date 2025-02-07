@@ -38,7 +38,7 @@ params:
   tocopen: false
 
   assets:
-    favicon: "./photo.jpg"
+    favicon: "media/photo.jpg"
 
   profileMode:
     enabled: true

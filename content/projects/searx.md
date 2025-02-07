@@ -4,7 +4,7 @@ date: 2023-03-08T14:37:47Z
 draft: false
 ---
 
-![SearXNG screenshot](/searxng-screenshot.png)
+![SearXNG screenshot](media/searxng-screenshot.png)
 
 SearX (or it's fork SearXNG) is a free and open-source metasearch engine. Unlike traditional search engines, SearX:
 
