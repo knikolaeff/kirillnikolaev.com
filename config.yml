@@ -38,13 +38,13 @@ params:
   tocopen: false
 
   assets:
-    favicon: "media/photo.jpg"
+    favicon: "/media/photo.jpg"
 
   profileMode:
     enabled: true
     title: Kirill Nikolaev
     subtitle: "Hello, world! I'm a DevOps Engineer at [**Yoma**](https://yomadigital.com), where I manage Linux systems, build pipelines, orchestrate containers and make clients happy. I have been using Linux as my daily driver (Arch, btw) for 4+ years. I develop in Python and Bash, dabble in C and Go, and am pursuing Bachelor of Engineering in IT. Beyond tech, I have also been successfully trading equities and cryptocurrencies for over 2 years."
-    imageUrl: "./photo.jpg"
+    imageUrl: "/media/photo.jpg"
     imageWidth: 240
     imageHeight: 240
     imageTitle: "My photo"
