@@ -57,7 +57,7 @@ params:
     - name: email
       url: "emailto:contact@kirillnikolaev.com"
     - name: cv
-      url: "./Kirill_Nikolaev_CV.pdf"
+      url: "media/Kirill_Nikolaev_CV.pdf"
 
 menu:
   main:
