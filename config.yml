@@ -53,9 +53,9 @@ params:
     - name: github
       url: "https://github.com/knikolaeff"
     - name: linkedin
-      url: "https://www.linkedin.com/in/kiryl-nikalayeu-ab4593242"
+      url: "https://www.linkedin.com/in/kirill-nikolaev-ab4593242/"
     - name: email
-      url: "emailto:contact@kirillnikolaev.com"
+      url: "mailto:contact@kirillnikolaev.com"
     - name: cv
       url: "media/Kirill_Nikolaev_CV.pdf"
 
